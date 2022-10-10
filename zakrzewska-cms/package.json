@@ -1,4 +1,5 @@
 {
+  "homepage": "http://kuba682.github.io/zakrzewskaStudioReact/zakrzewska-cms/",
   "name": "zakrzewska-cms",
   "private": true,
   "version": "0.1.0",
@@ -7,6 +8,7 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
+    "deploy": "gh-pages -d build",
     "strapi": "strapi"
   },
   "dependencies": {
@@ -25,5 +27,8 @@
     "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
