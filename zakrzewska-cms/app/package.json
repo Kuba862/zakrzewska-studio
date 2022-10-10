@@ -1,6 +1,6 @@
 {
-  "homepage": "http://kuba682.github.io/zakrzewskaStudioReact/zakrzewska-react/",
-  "name": "zakrzewska-react",
+  "homepage": "https://kuba862.github.io/zakrzewskaStudioReact/zakrzewska-cms/app",
+  "name": "app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,9 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
