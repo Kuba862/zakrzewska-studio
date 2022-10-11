@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="36" viewBox="0 0 284 36">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <text fill="#FFF" font-family="Biennale-Regular, Biennale" font-size="12" opacity=".6" transform="translate(-199 -4953) translate(0 4431) translate(199 522)">
+                        <tspan x="32" y="12">Wypełniając formularz akceptujesz </tspan> <tspan x="233.936" y="12" text-decoration="underline">politykę </tspan> <tspan x="32" y="30" text-decoration="underline">prywatności</tspan>
+                    </text>
+                    <g>
+                        <path d="M0 0H24V24H0z" transform="translate(-199 -4953) translate(0 4431) translate(199 522)"/>
+                        <path stroke="#FFF" d="M4 4H20V20H4z" transform="translate(-199 -4953) translate(0 4431) translate(199 522)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

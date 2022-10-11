@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="21" viewBox="0 0 40 21" class="carousel-slider-nav-icon">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <path fill="#2C312B" d="M35.666 9.627L30 3.573c-.024-.026-.024-.066 0-.092l.402-.429c.025-.027.067-.028.094-.003l.003.003L37 9.999l-6.5 6.949c-.025.027-.067.028-.094.003l-.003-.003-.402-.43c-.024-.025-.024-.065 0-.09l5.665-6.056h-28.6c-.036 0-.066-.03-.066-.066v-.612c0-.037.03-.067.067-.067h28.599z" transform="translate(-1324 -3658) translate(0 3146) translate(76 284) translate(1248 228.5)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
